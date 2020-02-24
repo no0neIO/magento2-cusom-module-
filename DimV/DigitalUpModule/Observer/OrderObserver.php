@@ -37,7 +37,7 @@ class OrderObserver implements ObserverInterface
         $myJSON = json_encode($myArr);
 
         // use curl to post JSON data to the endpoint
-        $url = "http://smart-digital.gr/test/dimitris-verakis.php";
+        $url = "http://url";
         $ch = curl_init();
         curl_setopt($ch, CURLOPT_URL, $url);
         curl_setopt($ch, CURLOPT_HTTPHEADER, array('Content-Type: application/json'));
