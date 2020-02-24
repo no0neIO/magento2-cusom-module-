@@ -1,4 +1,4 @@
-# magento2 Cusom module-
+# magento2 custom module
 
-## As simple module for mangento2, that it's pupose is to trigger an event when an customer order is made, and extend some out of the box functionality.
+A simple module for magento2. It's purpose is to trigger an event when an order is made.
 
